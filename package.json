@@ -30,7 +30,7 @@
     "npmlog": "0.0.6",
     "readdirp": "~0.3.1",
     "require-module": "~0.1.0",
-    "resolve-git-remote": "~0.1.1",
+    "resolve-git-remote": "git://github.com/blefevre/resolve-git-remote.git#ecd6efbc21cf2c969fff72e64f054cee66b1b9a8",
     "rimraf": "~2.2.4",
     "runnel": "~0.5.1",
     "through2": "~0.2.3",
